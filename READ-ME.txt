@@ -1,0 +1,30 @@
+README.txt
+
+Project: Customized HTML Template
+Author: Divyesh Rupala
+Role: Frontend Web Developer at Arraysoft Technology
+
+Description:
+This project is based on a readymade HTML template originally provided by HTML Codex (https://htmlcodex.com). The template has been customized and enhanced for commercial use, including design modifications, content updates, and performance optimizations tailored to specific client needs.
+
+Customization Includes:
+- Layout adjustments and responsive design improvements
+- Integration of brand-specific colors, fonts, and assets
+- Optimization for SEO and loading speed
+- Addition of custom sections and interactive elements
+- Refined CSS and JavaScript for better user experience
+
+Credits:
+Original template by HTML Codex  
+Website: https://htmlcodex.com  
+License: Please refer to HTML Codex's licensing terms for template usage rights.
+
+Usage:
+This customized version is intended for commercial use by clients of Arraysoft Technology. Redistribution or resale of this template in its original or modified form is not permitted without proper authorization.
+
+Contact:
+For inquiries, support, or collaboration opportunities, please reach out:
+Email: [your email here]  
+Portfolio: [your portfolio link here]
+
+Thank you for using this customized template!
